@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-###Open this App click[mukesh.aroopa.intern.netlify.app]
+##Open this App click[mukesh.aroopa.intern.netlify.app]
 ### `npm start`
 
 Runs the app in the development mode.\
